@@ -1,8 +1,8 @@
 Applications of Deep Neural Networks:
 
-1) Churn Propensity (ChurnModeling):
+1) Churn Propensity (ChurnModeling): <br>
 
-Key tools: Artificial Neural Networks, Weighting Classes <br>
+Key tools: Artificial Neural Networks, Weighting Imbalanced Classes <br>
 Libraries: tensorflow, keras, scikit-learn, seaborn, matplotlib, numpy, pandas
 
 

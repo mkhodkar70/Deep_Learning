@@ -1,4 +1,4 @@
-Application of Deep Neural Networks:
+Applications of Deep Neural Networks:
 
 1) Churn Propensity (ChurnModeling):
 

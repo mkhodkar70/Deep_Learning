@@ -1,7 +1,7 @@
 Applications of Deep Neural Networks:
 
 1) Churn Propensity (ChurnModeling): <br>
-Modeling the propensity to churn of the customers of a financial institutions using their properties such as age, 
+Propensity to churn modeling of the customers of a financial institutions, using their properties such as age, 
 geography, gender, credit score and balance.
 Key tools: Artificial Neural Networks, weighting imbalanced classes <br>
 Libraries: tensorflow, keras, scikit-learn, seaborn, matplotlib, numpy, pandas

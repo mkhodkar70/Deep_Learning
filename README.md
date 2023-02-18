@@ -15,7 +15,7 @@ Libraries: tensorflow, keras, pathlib, scikit-learn, matplotlib, numpy, pandas
 
 3) Sentiment Analysis (MovieReviews_NLP_LSTM): <br>
 Deploying various architectures of recurrent neural networks along with NLP tools to classify movie reviews into 
-positive and negative, using a dataset of 50,000 reviews.
+positive and negative, using a dataset of 50,000 reviews. <br>
 Key tools: Natural Language Processing (Text Vectorization), Simple RNN, (Bidirectional) RNN/LSTM, (Bidirectional) RNN/GRU <br>
 Libraries: tensorflow, keras, numpy, pandas
 

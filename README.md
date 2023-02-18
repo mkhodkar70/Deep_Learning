@@ -21,6 +21,6 @@ Libraries: tensorflow, keras, numpy, pandas
 
 4) Facial Expression Recognition (FacialExpressionRecognizer): <br>
 Detecting seven different types of human feelings (happiness, disgust, sadness, etc.) from an imbalanced dataset of
-35,000+ facial expressions, by adopting an EfficientNetB2-based convolutional neural network. 
+35,000+ facial expressions, by adopting an EfficientNetB2-based convolutional neural network. <br>
 Key tools: Convolutional Neural Networks, Transfer Learning (EfficientNet), weighting imbalanced classes <br>
 Libraries: tensorflow, keras, pathlib, scikit-learn, matplotlib, numpy, pandas

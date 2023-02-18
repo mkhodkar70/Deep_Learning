@@ -2,14 +2,14 @@ Applications of Deep Neural Networks:
 
 1) Churn Propensity (ChurnModeling): <br>
 Propensity to churn modeling of the customers of a financial institutions, using their properties such as age, 
-geography, gender, credit score and balance.
+geography, gender, credit score and balance. <br>
 Key tools: Artificial Neural Networks, weighting imbalanced classes <br>
 Libraries: tensorflow, keras, scikit-learn, seaborn, matplotlib, numpy, pandas
 
 
 2) Image Classification (FruitClassifier): <br>
-Leveraging CNNs with ResNet50V2 being set as the backbone of the neural network to distinguish 131 different fruits 
-from each other.
+Leveraging CNNs with ResNet50V2 being set as the backbone of the neural network, to distinguish 131 different fruits 
+from each other. <br>
 Key tools: Convolutional Neural Networks, Transfer Learning (ResNet) <br>
 Libraries: tensorflow, keras, pathlib, scikit-learn, matplotlib, numpy, pandas
 

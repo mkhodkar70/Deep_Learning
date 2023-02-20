@@ -15,7 +15,7 @@ Libraries: tensorflow, keras, pathlib, scikit-learn, matplotlib, numpy, pandas
 
 3) Pneumonia Detection (Pneumonia Detection): <br>
 Employing a dataset of ~ 6,000 chest X-rays, to develop a CNN model built on top of a ResNet50V2 neural network, capable
-of identifying healthy (normal) X-rays from those affected by pneomonia. <br>
+of identifying healthy (normal) X-rays from those affected by pneumonia. <br>
 Key tools: Convolutional Neural Networks, Transfer Learning (ResNet), weighting imbalanced classes <br>
 Libraries: tensorflow, keras, pathlib, scikit-learn, matplotlib, numpy, pandas
 

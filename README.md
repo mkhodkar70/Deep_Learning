@@ -13,13 +13,19 @@ from each other. <br>
 Key tools: Convolutional Neural Networks, Transfer Learning (ResNet) <br>
 Libraries: tensorflow, keras, pathlib, scikit-learn, matplotlib, numpy, pandas
 
-3) Sentiment Analysis (MovieReviews_NLP_LSTM): <br>
+3) Pneumonia Detection (Pneumonia Detection): <br>
+Employing a dataset of ~ 6,000 chest X-rays, to develop a CNN model built on top of a ResNet50V2 neural network, capable
+of identifying healthy (normal) X-rays from those affected by pneomonia. <br>
+Key tools: Convolutional Neural Networks, Transfer Learning (ResNet), weighting imbalanced classes <br>
+Libraries: tensorflow, keras, pathlib, scikit-learn, matplotlib, numpy, pandas
+
+4) Sentiment Analysis (MovieReviews_NLP_LSTM): <br>
 Deploying various architectures of recurrent neural networks along with NLP tools to classify movie reviews into 
 positive and negative, using a dataset of 50,000 reviews. <br>
 Key tools: Natural Language Processing (Text Vectorization), Simple RNN, (Bidirectional) RNN/LSTM, (Bidirectional) RNN/GRU <br>
 Libraries: tensorflow, keras, numpy, pandas
 
-4) Facial Expression Recognition (FacialExpressionRecognizer): <br>
+5) Facial Expression Recognition (FacialExpressionRecognizer): <br>
 Detecting seven different types of human feelings (happiness, disgust, sadness, etc.) from an imbalanced dataset of
 35,000+ facial expressions, by adopting an EfficientNetB2-based convolutional neural network. <br>
 Key tools: Convolutional Neural Networks, Transfer Learning (EfficientNet), weighting imbalanced classes <br>

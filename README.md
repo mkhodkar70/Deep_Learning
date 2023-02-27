@@ -36,4 +36,4 @@ Time-series prediction of Google's stock price using Yahoo finance data from 201
 half of 2022 was leveraged for testing the neural-network-based model, while the remainder was used for building
 it. <br>
 Key tools: RNN/LSTM, Time-Series Analysis <br>
-Libraries: tensorflow, keras, yfinance, sklearn, numpy, pandas
+Libraries: tensorflow, keras, yfinance, sklearn, plotly, numpy, pandas

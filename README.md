@@ -30,3 +30,10 @@ Detecting seven different types of human feelings (happiness, disgust, sadness, 
 35,000+ facial expressions, by adopting an EfficientNetB2-based convolutional neural network. <br>
 Key tools: Convolutional Neural Networks, Transfer Learning (EfficientNet), weighting imbalanced classes <br>
 Libraries: tensorflow, keras, pathlib, scikit-learn, matplotlib, numpy, pandas
+
+6) Stock Moreket Forecasting (StockMarketLSTM): <br>
+Time-series prediction of Google's stock price using Yahoo finance data from 2018 to 2022. The data for the second 
+half of 2022 was leveraged for testing the neural-network-based model, while the remainder was used for building
+it. <br>
+Key tools: RNN/LSTM, Time-Series Analysis <br>
+Libraries: tensorflow, keras, yfinance, sklearn, numpy, pandas

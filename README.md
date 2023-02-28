@@ -33,7 +33,6 @@ Libraries: tensorflow, keras, pathlib, scikit-learn, matplotlib, numpy, pandas
 
 6) Stock Moreket Forecasting (StockMarketLSTM): <br>
 Time-series prediction of Google's stock price using Yahoo finance data from 2018 to 2022. The data for the second 
-half of 2022 was leveraged for testing the neural-network-based model, while the remainder was used for building
-it. <br>
+half of 2022 was leveraged for testing the neural-network-based model, while the rest was used for building it. <br>
 Key tools: RNN/LSTM, Time-Series Analysis <br>
-Libraries: tensorflow, keras, yfinance, sklearn, plotly, numpy, pandas
+Libraries: tensorflow, keras, yfinance, sklearn, matplotlib, seaborn, numpy, pandas
